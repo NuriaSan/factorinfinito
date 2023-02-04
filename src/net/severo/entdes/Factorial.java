@@ -1,7 +1,7 @@
 package net.severo.entdes;
 /**
  * 
- * @author Profesor
+ * @author Nuria Sánchez
  *
  */
 public class Factorial {
